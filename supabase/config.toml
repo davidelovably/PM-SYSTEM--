@@ -1,0 +1,28 @@
+project_id = "idxrdaygxutwhloyxvfg"
+
+[functions.ai-chat]
+verify_jwt = true
+
+[functions.analyze-sentiment]
+verify_jwt = true
+
+[functions.process-requirements]
+verify_jwt = true
+
+[functions.create-tasks-from-requirements]
+verify_jwt = true
+
+[functions.delete-user]
+verify_jwt = true
+
+[functions.invite-user]
+verify_jwt = true
+
+[functions.notify-project-member]
+verify_jwt = true
+
+[functions.validate-file]
+verify_jwt = true
+
+[functions.generate-report]
+verify_jwt = true
